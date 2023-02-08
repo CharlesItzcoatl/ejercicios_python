@@ -1,0 +1,17 @@
+https://www.sdpnoticias.com/opinion/tenemos-que-dar-la-batalla-correcta-empresas-y-derechos-humanos/
+https://www.sdpnoticias.com/espectaculos/famosos/andrea-legarreta-dice-que-sasha-sokol-tiene-derecho-de-denunciar-a-luis-de-llano/
+https://www.sdpnoticias.com/mexico/fernandez-norona-pidio-a-la-camara-de-diputados-interceder-ante-la-amenaza-de-retirarle-la-visa-de-estados-unidos/
+https://www.otro-sitio.com/mexico/fernandez-norona-pi/dio-a-la-camara-de-diputados-interceder-ante-la-amenaza-de-retirarle-la-visa-de-estados-unidos/
+https://www.otro-sitio.com/mexico/mexico-derrota-a-honduras-por-5-0/
+https://es.quora.com/Importa-el-uso-de-may%C3%BAsculas-en-las-URL
+https://es.quora.com/Importa
+
+./Ejercicio Auto Auto Automatizacion_v1.xlsx
+
+./06-11-2022_input.xlsx
+
+/work/06-11-2022_input.xlsx
+
+12-09-2022_output (ab5e3b03).xlsx
+
+12-09-2022_output.xlsx
